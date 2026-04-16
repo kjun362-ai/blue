@@ -13,3 +13,5 @@ add_executable(battlesihp #main.c
 add_executable(c3
         C3장.c
 )
+add_executable(c2 C2장.c
+)
